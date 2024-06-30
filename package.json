@@ -1,0 +1,17 @@
+{
+  "name": "node_assignment",
+  "version": "1.0.0",
+  "description": "Nodejs assignment",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index"
+  },
+  "author": "Chetan",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.7.2",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.4.4"
+  }
+}
